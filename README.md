@@ -14,6 +14,6 @@
 ```javascript
 const { commonChild, commonChildParse } = require('./src/index');
 commonChild("HARRY", "SALLY"); //return 2
-commonChildParse("HARRY SALLY"); //return 2
+commonChildParse("HARRY SALLY"); //return 2 
 ```
  It should return the longest string which is a common child of the input strings.
