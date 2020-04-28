@@ -1,7 +1,6 @@
 # Common Child
 
-[![Build Status](https://travis-ci.com/boivlad/common-child.svg?branch=feature%2FMSVLAD-65)](https://travis-ci.com/boivlad/common-child)
-
+[![Build Status](https://travis-ci.com/boivlad/common-child.svg?branch=feature%2FMSVLAD-116)](https://travis-ci.com/boivlad/common-child)
 ## [Task](./common-child.pdf)
 ## How to test:
 1. Clone this repository
