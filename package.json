@@ -1,0 +1,30 @@
+{
+  "name": "common-child",
+  "version": "1.0.0",
+  "description": "A string is said to be a child of a another string if it can be formed by deleting 0 or more characters from",
+  "main": "./src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha",
+    "coverage": "nyc npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boivlad/common-child.git"
+  },
+  "author": "Vladyslav Boichenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boivlad/common-child/issues"
+  },
+  "homepage": "https://github.com/boivlad/common-child#readme",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  },
+  "devDependencies": {
+    "nyc": "^15.0.1"
+  }
+}
